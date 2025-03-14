@@ -6,6 +6,9 @@ This is a beginner-friendly Python calculator that allows users to perform basic
 ✅ Subtraction (`-`)  
 ✅ Multiplication (`*`)  
 ✅ Division (`/`), with error handling for division by zero.
+✅ Can be used as a script or imported as a module.  
+
+**Ideal for beginners learning Python!**
 
 ## How to Use
 
